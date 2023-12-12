@@ -4,7 +4,7 @@ public class SeisNumPosNegCero {
     /*6.	Programa Java que guarda en un array 10 números enteros
     que se leen por teclado.
     A continuación, se recorre el array
-    y calcula cuántos números son positivos, cuántos negativos y cuántos ceros.
+    y calcula cuántos noúmeros son positivos, cuántos negativos y cuántos ceros.
      */
     public static void main (String[]args){
         Scanner scn= new Scanner(System.in);
