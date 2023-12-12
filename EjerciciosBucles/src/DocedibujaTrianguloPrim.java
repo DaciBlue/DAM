@@ -20,6 +20,9 @@ public class DocedibujaTrianguloPrim {
                         System.out.print(j+" ");
                     }System.out.printf("%n");
                 }
+
+
+                //probando
         }
     }
 }
